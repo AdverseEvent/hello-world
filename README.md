@@ -1,2 +1,3 @@
 # hello-world
-short description
+A little about myself. Also... 
+this is a test
